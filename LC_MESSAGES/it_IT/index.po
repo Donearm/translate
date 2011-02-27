@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DuckDuckGo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-04 18:39-0400\n"
+"PO-Revision-Date: 2011-02-26 21:33+0100\n"
+"Last-Translator: Gianluca Fiore <forod.g@gmail.com>\n"
+"Language-Team: Italian Italy <forod.g@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+
+#: lib/DDG/WWW/Index.pm:4558
+#: lib/DDG/WWW/Index.pm:5668
+#: lib/DDG/WWW/Index.pm:6302
+msgid "top"
+msgstr "top"
+
+#: lib/DDG/WWW/Index.pm:5705
+msgid "DDG knows"
+msgstr "DDG sa"
+
+#: lib/DDG/WWW/Index.pm:5705
+msgid "can mean different things"
+msgstr "può significare varie cose"
+
+#: lib/DDG/WWW/Index.pm:5705
+msgid "Click what you meant by"
+msgstr "Clicca ciò che intendevi con"
+
+#: lib/DDG/WWW/Index.pm:5705
+msgid "to get matching results"
+msgstr "per ottenere risultati corrispondenti"
+
+#: lib/DDG/WWW/Index.pm:5705
+msgid "web"
+msgstr "web"
+
+#: lib/DDG/WWW/Index.pm:5705
+msgid "links"
+msgstr "links"
+
+#: lib/DDG/WWW/Index.pm:5719
+msgid "Some topics grouped into"
+msgstr "Alcuni argomenti raggruppati in"
+
+#: lib/DDG/WWW/Index.pm:5725
+msgid "Some meanings"
+msgstr "Alcuni significati"
+
+#: lib/DDG/WWW/Index.pm:5727
+#: lib/DDG/WWW/Index.pm:6557
+msgid "Meanings"
+msgstr "Significati"
+
+#: lib/DDG/WWW/Index.pm:5730
+msgid "grouped into sections"
+msgstr "raggruppati in sezioni"
+
+#: lib/DDG/WWW/Index.pm:5738
+msgid "and"
+msgstr "e"
+
+#: lib/DDG/WWW/Index.pm:6302
+msgid "Web Links"
+msgstr "Links dal Web"
+
+#: lib/DDG/WWW/Index.pm:6303
+msgid "No right topic?  Try Web links"
+msgstr "Nessun argomento corretto? Prova i links dal Web"
+
+#: lib/DDG/WWW/Index.pm:6307
+msgid "More Links"
+msgstr "Più Links"
+
+#: lib/DDG/WWW/Index.pm:6552
+msgid "Category"
+msgstr "Categoria"
+
+#: lib/DDG/WWW/Index.pm:7178
+msgid "Settings"
+msgstr "Configurazioni"
+
+#: lib/DDG/WWW/Index.pm:7179
+msgid "Spread"
+msgstr "Diffondi"
+
+#: lib/DDG/WWW/Index.pm:7183
+msgid "Try search on"
+msgstr "Prova a cercare su"
+
+#: lib/DDG/WWW/Index.pm:7185
+msgid "Images"
+msgstr "Immagini"
+
+#: lib/DDG/WWW/Index.pm:7186
+msgid "Maps"
+msgstr "Mappe"
+
+#: lib/DDG/WWW/Index.pm:7187
+msgid "News"
+msgstr "Notizie"
+
+#: lib/DDG/WWW/Index.pm:7197
+msgid "Bang for more"
+msgstr "Sbatti per altro"
+
+#: lib/DDG/WWW/Index.pm:7198
+msgid "More goodies"
+msgstr "Altre chicche"
+
